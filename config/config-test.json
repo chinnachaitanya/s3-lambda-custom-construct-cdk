@@ -1,0 +1,5 @@
+{
+    "sourceBucketName": "test-source-bucket-cc-construct",
+    "destinationBucketName": "test-destination-bucket-cc-construct"
+  }
+  
